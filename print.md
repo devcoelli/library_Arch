@@ -26,4 +26,3 @@ Clique com botão direito do mouse em um espaço em branco dentro da pasta que v
 
 Como você pode ver na imagem acima. É só isso, nenhum mensagem aparecerá, mas ao abrir o menu do GNOME Shell novamente você já verá os aplicativos organizados.
 
-alias --save update-all="yay -Syu && flatpak update
