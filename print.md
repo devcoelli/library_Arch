@@ -4,7 +4,7 @@ gvfs-smb a2ps bc bluez-cups colord-sane cups cups-filters cups-pdf foomatic-db f
 
 snapper snapper-support snapper-tools snap-pac btrfs-assistant btrfs-progs btrfsmaintenance grub-btrfs os-prober-btrfs grub-customizer vlc gimp libreoffice-fresh libreoffice-fresh-pt-br ttf-ms-fonts hunspell-pt-br man-pages-pt_br file-roller fastfetch 
 
-pavucontrol
+flatpack: pavucontrol
 
 sudo gedit ~/.bashrc
 
